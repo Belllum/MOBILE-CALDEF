@@ -1,0 +1,9 @@
+.Calculator{
+    height: 1980px;
+    width: 1080px;
+    background-color: lightcyan;
+}
+
+.Calorie{
+    cursor: pointer;
+}
